@@ -50,6 +50,7 @@
 - `Docs\Conventions\Safety\Testing Convention.md`: 코드·Scene·Prefab·설정·문서 변경의 검증 방법을 정하거나, 검증을 수행하고 결과를 보고할 때 읽는다.
 
 ### 설계 · 구조 · 문서 유지
+- `Docs\Conventions\Work\Hierarchy Convention.md`: Scene·Prefab·UI 계층을 제안·생성·변경하거나 오브젝트·UI 요소·폴더 계층의 이름을 정할 때 읽는다.
 - `Docs\Conventions\Work\Architecture Convention.md`: 기능의 클래스 책임·의존성·통신 방식 등 설계 구조를 정하거나, 기존 구조를 변경·검토할 때 읽는다.
 - `Docs\Conventions\Work\Documentation Convention.md`: 작업 결과를 문서에 반영할지 판단하거나, 문서를 생성·분리·삭제하고 참조 경로를 정리할 때 읽는다. 기존 문서와 실제 구현이 다른 경우에도 읽는다.
 - `Docs\Conventions\Work\Environment Convention.md`: 개발·검증에 필요한 실행 환경을 확인하거나, Editor·패키지·렌더 파이프라인 등 환경 설정의 변경을 검토·수행할 때 읽는다. 문서와 실제 환경이 다를 때도 읽고 차이와 영향을 보고한다.
