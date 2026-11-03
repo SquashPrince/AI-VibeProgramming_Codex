@@ -13,6 +13,7 @@
 - `Docs/Project Values.md`: 확정된 프로젝트 값 (상시 로드)
 - `Docs/Project Configuration.md`: 미확정 프로젝트 값·착수 확인 절차
 - `Docs/Conventions/`: 주제별 상세 기준 (`Code/`, `GitHub/`, `Safety/`, `Work/`)
+- `Docs/Conventions/Work/Hierarchy Convention.md`: Scene·Prefab·UI 계층 구성과 폴더를 포함한 공통 계층 명명 기준
 - `Docs/Documentation/`: Github Commit·Issue·PR 작성 규칙
 - `Docs/Templates/`: Commit·Issue·PR·작업 일지·기술 문서 양식
 - `Docs/Technical/`: 기능 단위 기술 문서와 다이어그램 ([기술 문서 컨벤션](<Technical Document Convention.md>))
