@@ -39,6 +39,15 @@
 - `Docs\Conventions\Code\Reference Convention.md`: 객체 의존성과 참조 관리 방식 검토 또는 관련 코드 작성·수정·검토 시 읽는다. 예: Inspector 연결, 컴포넌트 조회·캐싱, 런타임 참조 전달, 객체 교체·파괴 시 참조 정리 등.
 - `Docs\Conventions\Code\Unity Convention.md`: Unity 기능·구현 방식 검토 또는 관련 코드 작성·수정·검토 시 읽는다. 예: 기본 API, 컴포넌트, 생명주기, 입력·물리 시스템, 에셋 활용 등.
 
+### 그래픽 에셋
+- `Docs\Conventions\Graphics\Common Convention.md`: Shader·HLSL·Shader Graph·Material·Texture·Sprite 작업의 요구 해석, 설명과 역할을 정할 때 읽는다.
+- `Docs\Conventions\Graphics\Shader Convention.md`: Shader 구현 방식 선택, 렌더링 요구와 호환성을 검토할 때 읽는다.
+- `Docs\Conventions\Graphics\HLSL Convention.md`: HLSL·ShaderLab 코드를 작성·수정·설명하거나 상세 주석·코드 최적화를 검토할 때 읽는다.
+- `Docs\Conventions\Graphics\Shader Graph Convention.md`: 노드·프로퍼티·Group·Sub Graph·Custom Function을 안내하거나 그래프 현황·변경을 검토할 때 읽는다.
+- `Docs\Conventions\Graphics\Material Convention.md`: Material 생성·설정·공유·런타임 변경·배칭 최적화를 검토할 때 읽는다.
+- `Docs\Conventions\Graphics\Texture Convention.md`: Texture 용도·임포트·압축·품질·메모리 설정을 검토하고 사용자 변경·테스트를 안내할 때 읽는다.
+- `Docs\Conventions\Graphics\Sprite Convention.md`: Sprite 분할·Pivot·크기·Atlas 목록과 최적화를 검토·안내할 때 읽는다.
+
 ### 공통 운영 · 프로젝트 설정
 - `Docs\Project Configuration.md`: 프로젝트 착수 시, 현재 작업에 필요한 미확정 프로젝트 값을 확인·등록할 때, 또는 `Project Values.md`·이 문서와 실제 설정의 차이를 확인할 때 읽는다.
 - `Docs\GroundRule.md`: 개발·버그 수정 작업을 시작하면서 목표, 완료 조건, 수정 범위, 관련 명세를 정할 때 읽는다. 작업 중 범위를 넓히거나 보호 대상 파일의 변경 필요성을 판단할 때도 참조한다.
