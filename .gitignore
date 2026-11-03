@@ -116,3 +116,8 @@ InitTestScene*.unity*
 # Claude 작업 지침 문서 (로컬 전용)
 /CLAUDE.md
 /.claude/
+
+# 로컬 개발 도구 설정 및 개별 플러그인 임포트 설정
+/.codex/config.toml
+/.vsconfig
+/Assets/Plugins/NuGet/System.Runtime.CompilerServices.Unsafe.dll.meta
