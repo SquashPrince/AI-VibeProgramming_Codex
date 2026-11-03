@@ -12,7 +12,8 @@
 - `Docs/GroundRule.md`: 사용자·AI·팀의 운영 원칙
 - `Docs/Project Values.md`: 확정된 프로젝트 값 (상시 로드)
 - `Docs/Project Configuration.md`: 미확정 프로젝트 값·착수 확인 절차
-- `Docs/Conventions/`: 주제별 상세 기준 (`Code/`, `GitHub/`, `Safety/`, `Work/`)
+- `Docs/Conventions/`: 주제별 상세 기준 (`Code/`, `GitHub/`, `Graphics/`, `Safety/`, `Work/`)
+- `Docs/Conventions/Graphics/`: 그래픽 공통 설명과 역할, Shader·HLSL·Shader Graph·Material·Texture·Sprite별 작업·최적화 기준. 진입점은 [그래픽 공통 컨벤션](<../Graphics/Common Convention.md>)이다.
 - `Docs/Conventions/Work/Hierarchy Convention.md`: Scene·Prefab·UI 계층 구성과 폴더를 포함한 공통 계층 명명 기준
 - `Docs/Documentation/`: Github Commit·Issue·PR 작성 규칙
 - `Docs/Templates/`: Commit·Issue·PR·작업 일지·기술 문서 양식
