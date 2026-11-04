@@ -13,6 +13,7 @@
 - `Docs/Project Values.md`: 확정된 프로젝트 값 (상시 로드)
 - `Docs/Project Configuration.md`: 미확정 프로젝트 값·착수 확인 절차
 - `Docs/Conventions/`: 주제별 상세 기준 (`Code/`, `GitHub/`, `Graphics/`, `Safety/`, `Work/`)
+- `Docs/Conventions/Graphics/Image Generation Convention.md`: 레퍼런스 분석과 방향 승인, 이미지 생성과 편집 범위, 사용 조건과 검수 기준. 이미지 생성 작업은 [이 문서](<../Graphics/Image Generation Convention.md>)에서 시작한다.
 - `Docs/Conventions/Graphics/`: 그래픽 공통 설명과 역할, Shader·HLSL·Shader Graph·Material·Texture·Sprite별 작업·최적화 기준. 진입점은 [그래픽 공통 컨벤션](<../Graphics/Common Convention.md>)이다.
 - `Docs/Conventions/Animation/`: 애니메이션 공통 판단과 역할, 2D 및 3D 분야별 구성과 연결 기준. 진입점은 [애니메이션 공통 컨벤션](<../Animation/Common Convention.md>)이다.
 - `Docs/Conventions/Work/Hierarchy Convention.md`: Scene·Prefab·UI 계층 구성과 폴더를 포함한 공통 계층 명명 기준

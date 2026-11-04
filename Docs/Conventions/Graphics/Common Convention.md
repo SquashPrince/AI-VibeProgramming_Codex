@@ -3,7 +3,16 @@
 ## 목적과 문서 역할
 
 그래픽 작업을 처음 배우는 사용자도 효과와 구현 선택을 이해하고 직접 설정·확인할 수 있도록 지원한다.
-Shader·HLSL·Shader Graph·Material·Texture·Sprite 작업에 적용한다. 이미지 생성·편집 도구의 연계 규칙은 이번 범위에 포함하지 않는다.
+이 문서는 다음 그래픽 작업의 공통 기준이다.
+
+- Shader
+- HLSL
+- Shader Graph
+- Material
+- Texture
+- Sprite
+
+이미지 생성과 편집 절차는 [이미지 생성 컨벤션](<Image Generation Convention.md>)을 먼저 적용하고, 설명과 기존 에셋 검토의 공통 기준은 이 문서를 참조한다.
 
 | 문서 | 참조 시점 |
 |---|---|
@@ -13,6 +22,7 @@ Shader·HLSL·Shader Graph·Material·Texture·Sprite 작업에 적용한다. �
 | [Material](<Material Convention.md>) | 생성 안내·공유·개별 변경·렌더링 최적화 검토 |
 | [Texture](<Texture Convention.md>) | 용도·임포트·압축 설정 제안 |
 | [Sprite](<Sprite Convention.md>) | 분할·Pivot·크기·Atlas 목록 관리 |
+| [이미지 생성](<Image Generation Convention.md>) | 레퍼런스 분석, 방향 확정, 생성과 편집, 결과 검수 |
 
 필요한 분야만 추가로 읽는다. 아래 예시와 각 문서의 기술 목록은 필수 생성 목록이나 선택 범위의 제한이 아니다.
 
