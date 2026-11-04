@@ -48,6 +48,11 @@
 - `Docs\Conventions\Graphics\Texture Convention.md`: Texture 용도·임포트·압축·품질·메모리 설정을 검토하고 사용자 변경·테스트를 안내할 때 읽는다.
 - `Docs\Conventions\Graphics\Sprite Convention.md`: Sprite 분할·Pivot·크기·Atlas 목록과 최적화를 검토·안내할 때 읽는다.
 
+### 애니메이션
+- `Docs/Conventions/Animation/Common Convention.md`: 2D와 3D 애니메이션의 요구 해석, 도구 추천, 작업 역할, 단계별 구성, 재생 제어와 검증 시 읽는다.
+- `Docs/Conventions/Animation/2D Convention.md`: Sprite 프레임 Clip, Unity 2D Animation 또는 외부 2D 제작 도구를 다룰 때 공통 규칙과 함께 읽는다. 외부 도구 항목의 초안 확인 절차를 포함한다.
+- `Docs/Conventions/Animation/3D Convention.md`: Rig와 Avatar, 임포트와 리타기팅, Root Motion, 신체별 Layer와 Mask, IK를 다룰 때 공통 규칙과 함께 읽는다.
+
 ### 공통 운영 · 프로젝트 설정
 - `Docs\Project Configuration.md`: 프로젝트 착수 시, 현재 작업에 필요한 미확정 프로젝트 값을 확인·등록할 때, 또는 `Project Values.md`·이 문서와 실제 설정의 차이를 확인할 때 읽는다.
 - `Docs\GroundRule.md`: 개발·버그 수정 작업을 시작하면서 목표, 완료 조건, 수정 범위, 관련 명세를 정할 때 읽는다. 작업 중 범위를 넓히거나 보호 대상 파일의 변경 필요성을 판단할 때도 참조한다.
@@ -76,6 +81,9 @@
 
 ### 지침 개선 작업 재개
 - `Docs/Temp/Codex-Instructions-Handoff.md` (이번 지침 개선 작업을 이어서 진행할 때만 읽는다.)
+
+### 애니메이션 규칙 작업 재개
+- `Docs/Temp/Animation-Rules-Handoff.md`: Issue #5의 애니메이션 규칙 작업을 이어갈 때 승인 사항과 남은 논의 및 Git 상태를 확인한다.
 
 ### 작업 일지
 - `Docs\Templates\WorkLog.md`: 작업 일지를 새로 작성하거나 이전 작업일의 누락된 일지를 보완할 때 읽는다.
