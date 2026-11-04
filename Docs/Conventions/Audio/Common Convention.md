@@ -38,6 +38,7 @@
 
 ## 기존 구성과 작업 역할
 
+- 아래 역할은 작업 분담이며 직접 설정과 연결을 수행할 수 있다는 보장이 아니다. [환경 규칙의 실행 수단과 조사 범위](<../Work/Environment Convention.md#실행-수단과-조사-범위>)에 따라 실행 경로와 관찰 범위를 먼저 확인한다.
 - [프로젝트 값](<../../Project Values.md>)과 실제 환경, 기존 음원과 AudioSource, AudioMixer, AudioListener, 코드 및 애니메이션 이벤트 연결을 확인한다.
 - 문서와 실제 환경의 차이는 [환경 규칙](<../Work/Environment Convention.md>)에 따라 보고한다.
 - 기존 음원, AudioSource, Mixer와 코드 연결은 수정 지시 없이 변경하지 않는다. 공유 설정의 사용처와 영향을 확인한다.

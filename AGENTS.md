@@ -83,12 +83,6 @@
 - `Docs\Conventions\GitHub\Workflow Convention.md`: GitHub 작업 결과를 외부 업무 도구에 반영하거나, 도구 간 작업 상태·Issue·PR 링크의 동기화를 확인할 때 읽는다.
 - `Docs\Conventions\GitHub\Completion Convention.md`: 작업의 완료 조건을 정하거나, 구현·검증·병합 중 어디까지 완료됐는지 판단하고 보고할 때 읽는다.
 
-### 지침 개선 작업 재개
-- `Docs/Temp/Codex-Instructions-Handoff.md` (이번 지침 개선 작업을 이어서 진행할 때만 읽는다.)
-
-### 애니메이션 규칙 작업 재개
-- `Docs/Temp/Animation-Rules-Handoff.md`: Issue #5의 애니메이션 규칙 작업을 이어갈 때 승인 사항과 남은 논의 및 Git 상태를 확인한다.
-
 ### 작업 일지
 - `Docs\Templates\WorkLog.md`: 작업 일지를 새로 작성하거나 이전 작업일의 누락된 일지를 보완할 때 읽는다.
 
