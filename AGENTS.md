@@ -54,6 +54,9 @@
 - `Docs/Conventions/Animation/2D Convention.md`: Sprite 프레임 Clip, Unity 2D Animation 또는 외부 2D 제작 도구를 다룰 때 공통 규칙과 함께 읽는다. 외부 도구 항목의 초안 확인 절차를 포함한다.
 - `Docs/Conventions/Animation/3D Convention.md`: Rig와 Avatar, 임포트와 리타기팅, Root Motion, 신체별 Layer와 Mask, IK를 다룰 때 공통 규칙과 함께 읽는다.
 
+### 사운드
+- `Docs/Conventions/Audio/Common Convention.md`: 기존 음원의 용도 확인, 사이트와 검색어 안내, AudioSource 설정 추천, AudioMixer 사용법, 재생 연결과 검증 시 읽는다. 개별 음원 검색과 선택은 사용자가 수행한다.
+
 ### 공통 운영 · 프로젝트 설정
 - `Docs\Project Configuration.md`: 프로젝트 착수 시, 현재 작업에 필요한 미확정 프로젝트 값을 확인·등록할 때, 또는 `Project Values.md`·이 문서와 실제 설정의 차이를 확인할 때 읽는다.
 - `Docs\GroundRule.md`: 개발·버그 수정 작업을 시작하면서 목표, 완료 조건, 수정 범위, 관련 명세를 정할 때 읽는다. 작업 중 범위를 넓히거나 보호 대상 파일의 변경 필요성을 판단할 때도 참조한다.
