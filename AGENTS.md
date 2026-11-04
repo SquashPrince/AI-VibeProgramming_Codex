@@ -40,6 +40,7 @@
 - `Docs\Conventions\Code\Unity Convention.md`: Unity 기능·구현 방식 검토 또는 관련 코드 작성·수정·검토 시 읽는다. 예: 기본 API, 컴포넌트, 생명주기, 입력·물리 시스템, 에셋 활용 등.
 
 ### 그래픽 에셋
+- `Docs/Conventions/Graphics/Image Generation Convention.md`: 이미지 신규 생성과 편집 시 먼저 읽는다. 레퍼런스 필수 제공, 분석과 질문을 통한 방향 승인, 수량과 수정 범위, 결과 검수 기준을 따른다.
 - `Docs\Conventions\Graphics\Common Convention.md`: Shader·HLSL·Shader Graph·Material·Texture·Sprite 작업의 요구 해석, 설명과 역할을 정할 때 읽는다.
 - `Docs\Conventions\Graphics\Shader Convention.md`: Shader 구현 방식 선택, 렌더링 요구와 호환성을 검토할 때 읽는다.
 - `Docs\Conventions\Graphics\HLSL Convention.md`: HLSL·ShaderLab 코드를 작성·수정·설명하거나 상세 주석·코드 최적화를 검토할 때 읽는다.
